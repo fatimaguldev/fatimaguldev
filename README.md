@@ -1,7 +1,7 @@
  Hi, I am Fatima Gul 👋
 
 🎓 BS Computer Science Student  
-💻 Learning Full Stack Web Development  
+💻 Full Stack Web Development  
 🎯 Goal: Software Engineer at a top tech company  
 📍 Pakistan  
 
