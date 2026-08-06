@@ -545,7 +545,7 @@ Software Engineer
 
 <div align="center">
 
-### Thanks for visiting my profile!
+### Thanks for visiting my profile! Follow!
 
 ⭐ If you like my work, consider following my journey as I continue learning and building.
 
