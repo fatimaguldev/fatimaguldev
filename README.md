@@ -111,65 +111,7 @@ Every day.
 
 </div>
 
----
 
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fatimaguldev&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=fatimaguldev&theme=algolia&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/fatimaguldev/fatimaguldev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</div>
-
-> **Note:** This animation will work after we add the GitHub Actions workflow.
-
----
-
-# 💻 Coding Profiles
-
-<div align="center">
-
-| Platform | Status |
-|----------|--------|
-| GitHub | ✅ Active |
-| LeetCode | 🚧 Coming Soon |
-| HackerRank | 🚧 Coming Soon |
-| Codeforces | 🚧 Coming Soon |
-| CodeChef | 🚧 Coming Soon |
-
-</div>
-
----
-
-# 🌱 Currently Working On
-
-- Building responsive web applications
-- Strengthening JavaScript fundamentals
-- Learning React and Node.js
-- Creating production-ready portfolio projects
-- Improving Git and GitHub workflow
-- Studying Data Structures & Algorithms
-- Preparing for internships
 
 ---
 
@@ -205,14 +147,6 @@ Every day.
 </a>
 
 </div>
-
----
-
-# 💡 Philosophy
-
-> **"Great software isn't built in a day—it's built through thousands of small improvements, consistent practice, and the willingness to keep learning."**
-
----
 
 <div align="center">
 
