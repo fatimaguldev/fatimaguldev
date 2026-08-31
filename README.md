@@ -38,68 +38,12 @@
 
 ---
 
-# 👋 About Me
-
-I'm **Fatima Gul**, a Computer Science student with a passion for building modern, scalable web applications.
-
-I enjoy turning ideas into real products while continuously improving my problem-solving skills and software engineering fundamentals.
-
-Currently, my primary focus is mastering the **MERN Stack**, strengthening my understanding of **Data Structures & Algorithms**, and building projects that reflect real-world engineering practices.
-
-I believe consistent learning, practical experience, and clean code are the foundation of becoming a great software engineer.
-
----
-
-# 💻 Terminal
-
-```bash
-fatima@github:~$ whoami
-
-Name        : Fatima Gul
-Location    : Pakistan 🇵🇰
-
-Role        : Computer Science Student
-
-Focus       : Full Stack Development
-
-Learning    : JavaScript
-              React
-              Node.js
-              MongoDB
-              Express
-
-Current Goal:
-Become a highly skilled Software Engineer by
-building real-world projects, mastering
-computer science fundamentals, and contributing
-to open source.
-
 Status:
 Learning.
 Building.
 Improving.
 Every day.
-```
 
----
-
-# 🚀 Current Focus
-
-✔ Master JavaScript
-
-✔ Build Full Stack MERN Applications
-
-✔ Strengthen Data Structures & Algorithms
-
-✔ Learn System Design Fundamentals
-
-✔ Build an Outstanding GitHub Portfolio
-
-✔ Contribute to Open Source
-
-✔ Prepare for Software Engineering Internships
-
----
 
 # 🧠 Tech Stack
 
@@ -152,59 +96,6 @@ Every day.
 </p>
 
 ---
-
-# 📚 Learning Roadmap
-
-### Currently Learning
-
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
-- REST APIs
-
-### Next Goals
-
-- Next.js
-- TypeScript
-- PostgreSQL
-- Docker
-- AWS
-- Kubernetes
-- Redis
-- GraphQL
-- CI/CD
-- Microservices
-- AI Integration
-
----
-
-# 🎯 2026 Goals
-
-- Build 10+ Full Stack Projects
-
-- Master MERN Stack
-
-- Solve 500+ DSA Problems
-
-- Earn AWS Cloud Certification
-
-- Contribute to Open Source
-
-- Launch SaaS Projects
-- ---
-
-# 🚀 Featured Projects
-
-> Projects that demonstrate my learning journey and practical experience. Every project teaches me something new about software engineering, clean code, and problem solving.
-
-<table>
-
-<tr>
-
-<td width="50%">
 
 ### 🌐 HTML Projects
 
